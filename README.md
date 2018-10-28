@@ -1,4 +1,4 @@
-# breadwallet-core
-SPV bitcoin C library
+# muepay-core
+SPV MonetaryUnit C library
 
-[getting started](https://github.com/breadwallet/breadwallet-core/wiki)
+[getting started](https://github.com/MUEDEV/breadwallet-core/wiki)
